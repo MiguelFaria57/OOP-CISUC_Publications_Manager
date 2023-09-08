@@ -1,0 +1,28 @@
+jh@dei.uc.pt,alberto@dei.uc.pt,bmtt@dei.uc.pt#Titulo 11#palavra-chave 111,palavra-chave 112,palavra-chave 113#2019#Artigo de Conferencia#581#Resumo 11#Nome da Conferencia 1#1/1/2019#Localizacao da Conferencia 1
+machado@dei.uc.pt,nscc@dei.uc.pt,jeflora@dei.uc.pt#Titulo 12#palavra-chave 121,palavra-chave 122#2017#Artigo de Conferencia#220#Resumo 12#Nome da Conferencia 2#2/1/2017#Localizacao da Conferencia 2
+naml@dei.uc.pt,anatr@dei.uc.pt#Titulo 13#palavra-chave 131,palavra-chave 132#2020#Artigo de Conferencia#183#Resumo 13#Nome da Conferencia 3#3/1/2020#Localizacao da Conferencia 3
+lir@dei.uc.pt,draposo@dei.uc.pt,anatr@dei.uc.pt,pamc@dei.uc.pt#Titulo 14#palavra-chave 141,palavra-chave 142,palavra-chave 143,palavra-chave 144#2014#Artigo de Conferencia#274#Resumo 14#Nome da Conferencia 4#4/1/2014#Localizacao da Conferencia 4
+psimoes@dei.uc.pt,mccunha@dei.uc.pt#Titulo 15#palavra-chave 151,palavra-chave 152#2020#Artigo de Conferencia#510#Resumo 15#Nome da Conferencia 5#5/1/2020#Localizacao da Conferencia 5
+henrique@dei.uc.pt,bcabral@dei.uc.pt#Titulo 21#palavra-chave 211,palavra-chave 212#2016#Artigo de Revista#402#Resumo 21#Nome da Revista 1#1/2/2016#21
+jh@dei.uc.pt,draposo@dei.uc.pt#Titulo 22#palavra-chave 221,palavra-chave 222#2015#Artigo de Revista#869#Resumo 22#Nome da Revista 2#2/2/2015#22
+bmsousa@dei.uc.pt,jessicac@student.dei.uc.pt#Titulo 23#palavra-chave 231,palavra-chave 232#2018#Artigo de Revista#1137#Resumo 23#Nome da Revista 3#3/2/2018#23
+bruna@dei.uc.pt,stanleylima@dei.uc.pt#Titulo 24#palavra-chave 241,palavra-chave 242#2013#Artigo de Revista#688#Resumo 24#Nome da Revista 4#4/2/2013#24
+amrocha@dei.uc.pt,anatr@dei.uc.pt#Titulo 25#palavra-chave 251,palavra-chave 252#2020#Artigo de Revista#1009#Resumo 25#Nome da Revista 5#5/2/2020#25
+ernesto@dei.uc.pt,dpessoa@dei.uc.pt#Titulo 31#palavra-chave 311,palavra-chave 312#2013#Livro#15302#Resumo 31#Editora 11#ISBN 11
+nscc@dei.uc.pt,jaimec@dei.uc.pt#Titulo 32#palavra-chave 321,palavra-chave 322#2019#Livro#4722#Resumo 32#Editora 12#ISBN 12
+aleal@dei.uc.pt,dabreu@dei.uc.pt#Titulo 33#palavra-chave 331,palavra-chave 332#2019#Livro#7926#Resumo 33#Editora 13#ISBN 13
+gcsilva@student.dei.uc.pt,pamc@dei.uc.pt#Titulo 34#palavra-chave 341,palavra-chave 342#2015#Livro#3997#Resumo 34#Editora 14#ISBN 14
+vfc@dei.uc.pt,anatr@dei.uc.pt#Titulo 35#palavra-chave 351,palavra-chave 352#2012#Livro#8560#Resumo 35#Editora 15#ISBN 15
+alberto@dei.uc.pt,bruna@dei.uc.pt#Titulo 41#palavra-chave 411,palavra-chave 412#2019#Capitulo de Livro#6074#Resumo 41#Editora 21#ISBN 21#Nome de Capitulo 1#110#210
+machado@dei.uc.pt,aleal@dei.uc.pt#Titulo 42#palavra-chave 421,palavra-chave 422#2016#Capitulo de Livro#8429#Resumo 42#Editora 22#ISBN 22#Nome de Capitulo 2#120#220
+aboavida@dei.uc.pt,dpessoa@dei.uc.pt#Titulo 43#palavra-chave 431,palavra-chave 432#2017#Capitulo de Livro#11323#Resumo 43#Editora 23#ISBN 23#Nome de Capitulo 3#130#230
+bmtt@dei.uc.pt,naml@dei.uc.pt#Titulo 44#palavra-chave 441,palavra-chave 442#2015#Capitulo de Livro#4577#Resumo 44#Editora 24#ISBN 24#Nome de Capitulo 4#140#240
+jessicac@student.dei.uc.pt,ernesto@dei.uc.pt#Titulo 45#palavra-chave 451,palavra-chave 452#2018#Capitulo de Livro#7411#Resumo 45#Editora 25#ISBN 25#Nome de Capitulo 5#150#250
+vfc@dei.uc.pt,gcsilva@student.dei.uc.pt#Titulo 51#palavra-chave 511,palavra-chave 512#2020#Livro de Artigos de Conferencia#8101#Resumo 51#Editora 31#ISBN 31#Nome da Conferencia 1#2
+amrocha@dei.uc.pt,lir@dei.uc.pt#Titulo 52#palavra-chave 521,palavra-chave 522#2017#Livro de Artigos de Conferencia#5932#Resumo 52#Editora 32#ISBN 32#Nome da Conferencia 2#4
+jeflora@dei.uc.pt,stanleylima@dei.uc.pt#Titulo 53#palavra-chave 531,palavra-chave 532#2020#Livro de Artigos de Conferencia#2064#Resumo 53#Editora 33#ISBN 33#Nome da Conferencia 3#6
+dabreu@dei.uc.pt,,bmsousa@dei.uc.pt#Titulo 54#palavra-chave 541,palavra-chave 542#2013#Livro de Artigos de Conferencia#3292#Resumo 54#Editora 34#ISBN 34#Nome da Conferencia 4#8
+aboavida@dei.uc.pt,bcabral@dei.uc.pt#Titulo 55#palavra-chave 551,palavra-chave 552#2015#Livro de Artigos de Conferencia#1976#Resumo 55#Editora 35#ISBN 35#Nome da Conferencia 5#10
+jh@dei.uc.pt,alberto@dei.uc.pt,bmtt@dei.uc.pt#Titulo 16#palavra-chave 161,palavra-chave 162,palavra-chave 163#2019#Artigo de Conferencia#281#Resumo 16#Nome da Conferencia 6#6/1/2019#Localizacao da Conferencia 6
+lir@dei.uc.pt,draposo@dei.uc.pt,anatr@dei.uc.pt#Titulo 17#palavra-chave 171,palavra-chave 172#2018#Artigo de Conferencia#274#Resumo 17#Nome da Conferencia 7#7/1/2018#Localizacao da Conferencia 7
+lir@dei.uc.pt,draposo@dei.uc.pt,anatr@dei.uc.pt#Titulo 18#palavra-chave 181,palavra-chave 182#2018#Artigo de Conferencia#284#Resumo 18#Nome da Conferencia 8#8/1/2018#Localizacao da Conferencia 8

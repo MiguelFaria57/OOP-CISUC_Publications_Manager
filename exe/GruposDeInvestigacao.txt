@@ -1,0 +1,6 @@
+Adaptive Computing#AC#jh@dei.uc.pt#jh@dei.uc.pt,pamc@dei.uc.pt,alberto@dei.uc.pt,aleal@dei.uc.pt,dpessoa@dei.uc.pt
+Cognitive and Media Systems#CMS#machado@dei.uc.pt#machado@dei.uc.pt,aboavida@dei.uc.pt,anatr@dei.uc.pt,bruna@dei.uc.pt,bmtt@dei.uc.pt
+Evolutionary and Complex Systems#ECOS#naml@dei.uc.pt#naml@dei.uc.pt,ernesto@dei.uc.pt,gcsilva@student.dei.uc.pt,jessicac@student.dei.uc.pt,vfc@dei.uc.pt
+Information Systems#IS#lir@dei.uc.pt#lir@dei.uc.pt,amrocha@dei.uc.pt,disoeiro@esec.pt,nscc@dei.uc.pt,stanleylima@dei.uc.pt
+Communications and Telematics#LCT#psimoes@dei.uc.pt#psimoes@dei.uc.pt,bmsousa@dei.uc.pt,dabreu@dei.uc.pt,draposo@dei.uc.pt,mccunha@dei.uc.pt
+Software and Systems Engineering#SSE#henrique@dei.uc.pt#henrique@dei.uc.pt,bcabral@dei.uc.pt,dmrc@student.dei.uc.pt,jaimec@dei.uc.pt,jeflora@dei.uc.pt
